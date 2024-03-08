@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\MarketPlace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07AFAA29-0C12-40F2-9BBB-6BAC4669A156}|MarketPlace\\MarketPlace.csproj|c:\\users\\gustavo\\githubpro\\curso-csharp\\csharp\\marketplace\\marketplace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AFAA29-0C12-40F2-9BBB-6BAC4669A156}|MarketPlace\\MarketPlace.csproj|solutionrelative:marketplace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AFAA29-0C12-40F2-9BBB-6BAC4669A156}|MarketPlace\\MarketPlace.csproj|c:\\users\\gustavo\\githubpro\\curso-csharp\\csharp\\marketplace\\marketplace\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AFAA29-0C12-40F2-9BBB-6BAC4669A156}|MarketPlace\\MarketPlace.csproj|solutionrelative:marketplace\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AFAA29-0C12-40F2-9BBB-6BAC4669A156}|MarketPlace\\MarketPlace.csproj|c:\\users\\gustavo\\githubpro\\curso-csharp\\csharp\\marketplace\\marketplace\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AFAA29-0C12-40F2-9BBB-6BAC4669A156}|MarketPlace\\MarketPlace.csproj|solutionrelative:marketplace\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\MarketPlace\\MarketPlace\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "MarketPlace\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\MarketPlace\\MarketPlace\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "MarketPlace\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:09:15.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\MarketPlace\\MarketPlace\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "MarketPlace\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\MarketPlace\\MarketPlace\\Entities\\Order.cs",
+              "RelativeToolTip": "MarketPlace\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:07:47.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\MarketPlace\\MarketPlace\\Program.cs",
+              "RelativeDocumentMoniker": "MarketPlace\\Program.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\MarketPlace\\MarketPlace\\Program.cs",
+              "RelativeToolTip": "MarketPlace\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:06:40.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

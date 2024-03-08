@@ -1,0 +1,15 @@
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectPost\ProjectPost\obj\Debug\net8.0\ProjectPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectPost\ProjectPost\obj\Debug\net8.0\ProjectPost.AssemblyInfoInputs.cache
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectPost\ProjectPost\obj\Debug\net8.0\ProjectPost.AssemblyInfo.cs
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectPost\ProjectPost\obj\Debug\net8.0\ProjectPost.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectPost\ProjectPost\obj\Debug\net8.0\ProjectPost.sourcelink.json
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectPost\ProjectPost\bin\Debug\net8.0\ProjectPost.exe
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectPost\ProjectPost\bin\Debug\net8.0\ProjectPost.deps.json
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectPost\ProjectPost\bin\Debug\net8.0\ProjectPost.runtimeconfig.json
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectPost\ProjectPost\bin\Debug\net8.0\ProjectPost.dll
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectPost\ProjectPost\bin\Debug\net8.0\ProjectPost.pdb
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectPost\ProjectPost\obj\Debug\net8.0\ProjectPost.dll
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectPost\ProjectPost\obj\Debug\net8.0\refint\ProjectPost.dll
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectPost\ProjectPost\obj\Debug\net8.0\ProjectPost.pdb
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectPost\ProjectPost\obj\Debug\net8.0\ProjectPost.genruntimeconfig.cache
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectPost\ProjectPost\obj\Debug\net8.0\ref\ProjectPost.dll

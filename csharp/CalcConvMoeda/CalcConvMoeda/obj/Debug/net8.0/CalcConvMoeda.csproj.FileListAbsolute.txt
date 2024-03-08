@@ -1,0 +1,15 @@
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\CalcConvMoeda\CalcConvMoeda\bin\Debug\net8.0\CalcConvMoeda.exe
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\CalcConvMoeda\CalcConvMoeda\bin\Debug\net8.0\CalcConvMoeda.deps.json
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\CalcConvMoeda\CalcConvMoeda\bin\Debug\net8.0\CalcConvMoeda.runtimeconfig.json
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\CalcConvMoeda\CalcConvMoeda\bin\Debug\net8.0\CalcConvMoeda.dll
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\CalcConvMoeda\CalcConvMoeda\bin\Debug\net8.0\CalcConvMoeda.pdb
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\CalcConvMoeda\CalcConvMoeda\obj\Debug\net8.0\CalcConvMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\CalcConvMoeda\CalcConvMoeda\obj\Debug\net8.0\CalcConvMoeda.AssemblyInfoInputs.cache
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\CalcConvMoeda\CalcConvMoeda\obj\Debug\net8.0\CalcConvMoeda.AssemblyInfo.cs
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\CalcConvMoeda\CalcConvMoeda\obj\Debug\net8.0\CalcConvMoeda.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\CalcConvMoeda\CalcConvMoeda\obj\Debug\net8.0\CalcConvMoeda.sourcelink.json
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\CalcConvMoeda\CalcConvMoeda\obj\Debug\net8.0\CalcConvMoeda.dll
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\CalcConvMoeda\CalcConvMoeda\obj\Debug\net8.0\refint\CalcConvMoeda.dll
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\CalcConvMoeda\CalcConvMoeda\obj\Debug\net8.0\CalcConvMoeda.pdb
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\CalcConvMoeda\CalcConvMoeda\obj\Debug\net8.0\CalcConvMoeda.genruntimeconfig.cache
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\CalcConvMoeda\CalcConvMoeda\obj\Debug\net8.0\ref\CalcConvMoeda.dll

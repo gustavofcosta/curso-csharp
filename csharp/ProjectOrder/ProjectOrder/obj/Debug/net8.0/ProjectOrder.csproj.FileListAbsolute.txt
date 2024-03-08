@@ -1,0 +1,15 @@
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectOrder\ProjectOrder\obj\Debug\net8.0\ProjectOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectOrder\ProjectOrder\obj\Debug\net8.0\ProjectOrder.AssemblyInfoInputs.cache
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectOrder\ProjectOrder\obj\Debug\net8.0\ProjectOrder.AssemblyInfo.cs
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectOrder\ProjectOrder\obj\Debug\net8.0\ProjectOrder.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectOrder\ProjectOrder\obj\Debug\net8.0\ProjectOrder.sourcelink.json
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectOrder\ProjectOrder\bin\Debug\net8.0\ProjectOrder.exe
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectOrder\ProjectOrder\bin\Debug\net8.0\ProjectOrder.deps.json
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectOrder\ProjectOrder\bin\Debug\net8.0\ProjectOrder.runtimeconfig.json
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectOrder\ProjectOrder\bin\Debug\net8.0\ProjectOrder.dll
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectOrder\ProjectOrder\bin\Debug\net8.0\ProjectOrder.pdb
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectOrder\ProjectOrder\obj\Debug\net8.0\ProjectOrder.dll
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectOrder\ProjectOrder\obj\Debug\net8.0\refint\ProjectOrder.dll
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectOrder\ProjectOrder\obj\Debug\net8.0\ProjectOrder.pdb
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectOrder\ProjectOrder\obj\Debug\net8.0\ProjectOrder.genruntimeconfig.cache
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\ProjectOrder\ProjectOrder\obj\Debug\net8.0\ref\ProjectOrder.dll

@@ -1,0 +1,5 @@
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\EmpresaWorker\EmpresaWorker\obj\Debug\net8.0\EmpresaWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\EmpresaWorker\EmpresaWorker\obj\Debug\net8.0\EmpresaWorker.AssemblyInfoInputs.cache
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\EmpresaWorker\EmpresaWorker\obj\Debug\net8.0\EmpresaWorker.AssemblyInfo.cs
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\EmpresaWorker\EmpresaWorker\obj\Debug\net8.0\EmpresaWorker.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\EmpresaWorker\EmpresaWorker\obj\Debug\net8.0\EmpresaWorker.sourcelink.json

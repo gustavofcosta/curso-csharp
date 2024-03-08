@@ -1,0 +1,15 @@
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\LocatoraVeiculo\LocatoraVeiculo\bin\Debug\net8.0\LocatoraVeiculo.exe
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\LocatoraVeiculo\LocatoraVeiculo\bin\Debug\net8.0\LocatoraVeiculo.deps.json
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\LocatoraVeiculo\LocatoraVeiculo\bin\Debug\net8.0\LocatoraVeiculo.runtimeconfig.json
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\LocatoraVeiculo\LocatoraVeiculo\bin\Debug\net8.0\LocatoraVeiculo.dll
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\LocatoraVeiculo\LocatoraVeiculo\bin\Debug\net8.0\LocatoraVeiculo.pdb
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\LocatoraVeiculo\LocatoraVeiculo\obj\Debug\net8.0\LocatoraVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\LocatoraVeiculo\LocatoraVeiculo\obj\Debug\net8.0\LocatoraVeiculo.AssemblyInfoInputs.cache
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\LocatoraVeiculo\LocatoraVeiculo\obj\Debug\net8.0\LocatoraVeiculo.AssemblyInfo.cs
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\LocatoraVeiculo\LocatoraVeiculo\obj\Debug\net8.0\LocatoraVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\LocatoraVeiculo\LocatoraVeiculo\obj\Debug\net8.0\LocatoraVeiculo.sourcelink.json
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\LocatoraVeiculo\LocatoraVeiculo\obj\Debug\net8.0\LocatoraVeiculo.dll
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\LocatoraVeiculo\LocatoraVeiculo\obj\Debug\net8.0\refint\LocatoraVeiculo.dll
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\LocatoraVeiculo\LocatoraVeiculo\obj\Debug\net8.0\LocatoraVeiculo.pdb
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\LocatoraVeiculo\LocatoraVeiculo\obj\Debug\net8.0\LocatoraVeiculo.genruntimeconfig.cache
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\LocatoraVeiculo\LocatoraVeiculo\obj\Debug\net8.0\ref\LocatoraVeiculo.dll

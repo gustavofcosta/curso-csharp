@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\LocatoraVeiculo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF44E27-70A2-43D2-A1F2-B3361F938FEA}|LocatoraVeiculo\\LocatoraVeiculo.csproj|c:\\users\\gustavo\\githubpro\\curso-csharp\\csharp\\locatoraveiculo\\locatoraveiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF44E27-70A2-43D2-A1F2-B3361F938FEA}|LocatoraVeiculo\\LocatoraVeiculo.csproj|solutionrelative:locatoraveiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF44E27-70A2-43D2-A1F2-B3361F938FEA}|LocatoraVeiculo\\LocatoraVeiculo.csproj|c:\\users\\gustavo\\githubpro\\curso-csharp\\csharp\\locatoraveiculo\\locatoraveiculo\\entities\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF44E27-70A2-43D2-A1F2-B3361F938FEA}|LocatoraVeiculo\\LocatoraVeiculo.csproj|solutionrelative:locatoraveiculo\\entities\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF44E27-70A2-43D2-A1F2-B3361F938FEA}|LocatoraVeiculo\\LocatoraVeiculo.csproj|c:\\users\\gustavo\\githubpro\\curso-csharp\\csharp\\locatoraveiculo\\locatoraveiculo\\entities\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF44E27-70A2-43D2-A1F2-B3361F938FEA}|LocatoraVeiculo\\LocatoraVeiculo.csproj|solutionrelative:locatoraveiculo\\entities\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF44E27-70A2-43D2-A1F2-B3361F938FEA}|LocatoraVeiculo\\LocatoraVeiculo.csproj|c:\\users\\gustavo\\githubpro\\curso-csharp\\csharp\\locatoraveiculo\\locatoraveiculo\\entities\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF44E27-70A2-43D2-A1F2-B3361F938FEA}|LocatoraVeiculo\\LocatoraVeiculo.csproj|solutionrelative:locatoraveiculo\\entities\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\LocatoraVeiculo\\LocatoraVeiculo\\Entities\\Veiculo.cs",
+              "RelativeDocumentMoniker": "LocatoraVeiculo\\Entities\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\LocatoraVeiculo\\LocatoraVeiculo\\Entities\\Veiculo.cs",
+              "RelativeToolTip": "LocatoraVeiculo\\Entities\\Veiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T18:06:03.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\LocatoraVeiculo\\LocatoraVeiculo\\Entities\\Carro.cs",
+              "RelativeDocumentMoniker": "LocatoraVeiculo\\Entities\\Carro.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\LocatoraVeiculo\\LocatoraVeiculo\\Entities\\Carro.cs",
+              "RelativeToolTip": "LocatoraVeiculo\\Entities\\Carro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T18:11:36.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\LocatoraVeiculo\\LocatoraVeiculo\\Entities\\Moto.cs",
+              "RelativeDocumentMoniker": "LocatoraVeiculo\\Entities\\Moto.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\LocatoraVeiculo\\LocatoraVeiculo\\Entities\\Moto.cs",
+              "RelativeToolTip": "LocatoraVeiculo\\Entities\\Moto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T18:16:57.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\LocatoraVeiculo\\LocatoraVeiculo\\Program.cs",
+              "RelativeDocumentMoniker": "LocatoraVeiculo\\Program.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\LocatoraVeiculo\\LocatoraVeiculo\\Program.cs",
+              "RelativeToolTip": "LocatoraVeiculo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T18:04:50.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

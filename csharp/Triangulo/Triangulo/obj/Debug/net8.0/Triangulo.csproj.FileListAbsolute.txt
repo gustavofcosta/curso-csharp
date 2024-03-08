@@ -1,0 +1,15 @@
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.exe
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.deps.json
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.runtimeconfig.json
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.dll
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.pdb
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.AssemblyInfoInputs.cache
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.AssemblyInfo.cs
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.sourcelink.json
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.dll
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\Triangulo\Triangulo\obj\Debug\net8.0\refint\Triangulo.dll
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.pdb
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.genruntimeconfig.cache
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\Triangulo\Triangulo\obj\Debug\net8.0\ref\Triangulo.dll
