@@ -1,0 +1,1 @@
+C:\Users\Gustavo\GitHubPro\curso-csharp\csharp\MauiGallery\MauiGallery\MauiGallery.csproj;x64

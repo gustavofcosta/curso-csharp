@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\AppContentPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{193BD4E5-5DD1-4F07-95BD-92D182822ED3}|AppContentPage\\AppContentPage.csproj|c:\\users\\gustavo\\githubpro\\curso-csharp\\csharp\\appcontentpage\\appcontentpage\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{193BD4E5-5DD1-4F07-95BD-92D182822ED3}|AppContentPage\\AppContentPage.csproj|solutionrelative:appcontentpage\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\AppContentPage\\AppContentPage\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppContentPage\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Gustavo\\GitHubPro\\curso-csharp\\csharp\\AppContentPage\\AppContentPage\\MainPage.xaml",
+              "RelativeToolTip": "AppContentPage\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T18:56:59.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

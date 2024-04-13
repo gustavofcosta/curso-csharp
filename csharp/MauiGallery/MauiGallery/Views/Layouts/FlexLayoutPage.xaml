@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="MauiGallery.Views.Layouts.FlexLayoutPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="FlexLayoutPage">
+    <FlexLayout
+        AlignContent="Center"
+        AlignItems="Start"
+        Direction="Column"
+        JustifyContent="Center">
+        <Label
+            Padding="10"
+            BackgroundColor="RosyBrown"
+            FlexLayout.Grow="1"
+            FlexLayout.Order="1"
+            Text="Olá Mundo 1!" />
+        <Label
+            Padding="10"
+            BackgroundColor="SandyBrown"
+            FlexLayout.AlignSelf="Center"
+            FlexLayout.Basis="100"
+            FlexLayout.Order="0"
+            Text="Olá Mundo 2!" />
+        <Label
+            Padding="10"
+            BackgroundColor="SaddleBrown"
+            FlexLayout.AlignSelf="End"
+            FlexLayout.Basis="20%"
+            Text="Olá Mundo 3!"
+            TextColor="White" />
+        <Label
+            Padding="10"
+            BackgroundColor="Black"
+            FlexLayout.AlignSelf="Stretch"
+            Text="Olá Mundo 3!"
+            TextColor="White" />
+        <FlexLayout
+            AlignItems="Start"
+            Direction="Row"
+            JustifyContent="Start"
+            Wrap="Wrap">
+
+            <Label
+                Padding="10"
+                BackgroundColor="Aquamarine"
+                FlexLayout.AlignSelf="Stretch"
+                FlexLayout.Shrink="1"
+                Text="Olá Mundo 3sssss!"
+                TextColor="White" />
+            <Label
+                Padding="10"
+                BackgroundColor="Aquamarine"
+                FlexLayout.AlignSelf="Stretch"
+                Text="Olá Mundo 3!"
+                TextColor="White" />
+            <Label
+                Padding="10"
+                BackgroundColor="Aquamarine"
+                FlexLayout.AlignSelf="Stretch"
+                Text="Olá Mundo 3!"
+                TextColor="White" />
+            <Label
+                Padding="10"
+                BackgroundColor="Aquamarine"
+                FlexLayout.AlignSelf="Stretch"
+                Text="Olá Mundo 3!"
+                TextColor="White" />
+            <Label
+                Padding="10"
+                BackgroundColor="Aquamarine"
+                FlexLayout.AlignSelf="Stretch"
+                Text="Olá Mundo 3!"
+                TextColor="White" />
+        </FlexLayout>
+    </FlexLayout>
+</ContentPage>
